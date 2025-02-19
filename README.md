@@ -13,7 +13,7 @@ Esta API permite gerenciar uma lista de tarefas.
 ## Como Executar:
 
 1. Pré-requisitos: Java 21, Maven.
-2. Clonar o repositório: `git clone <url_do_seu_repositorio>`
+2. Clonar o repositório: `git clone <[https://github.com/burkepaula/todo-list]>`
 2. Construir o projeto: `mvn clean install`
 3. Executar a aplicação: `mvn spring-boot:run`
 4. Testar a API: Use o Postman ou uma ferramenta similar para testar os endpoints.
